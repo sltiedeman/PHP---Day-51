@@ -1,0 +1,200 @@
+body{
+	margin: 0px;
+	font-family: Tahoma, sans-serif;
+	background: url('greenbg.png');
+
+}
+h1{
+	font-family: Ubuntu, sans-serif;
+}
+
+#total-wrapper{
+	margin-bottom: 40px;
+}
+
+#social-media{
+	background: url('greenbg.png');
+	height: 80px;
+	color: #a7b29b;
+	font-size: 9pt;
+	line-height: 80px;
+	margin-right: 10%;
+}
+
+#social-media .text{
+	float: right;
+	padding: 0px 15px;
+}
+#social-media #icons{
+	float: right;
+}
+
+#icons img{
+	padding-top: 24px;
+}
+
+
+#banner{
+	background: url('tanbg.png');
+	height: 127px;
+	padding: 25px;
+}
+
+#header-holder{
+	float: left;
+	width: 30%;
+	padding-left: 10%;
+
+}
+
+#menu{
+	float: left;
+	width: 60%;
+	height: 127px;
+}
+
+#menu ul li{
+	display: inline;
+	line-height: 110px;
+	padding: 20px;
+	font-size: 18px;
+	color: #675538;
+}
+
+
+#main-content{
+	margin: 40px 10% 40px 10%;
+	background: white;
+	overflow: hidden;
+}
+
+
+#left{
+	float: left;
+	box-sizing: border-box;
+	padding: 40px 20px;
+	width: 75%;
+} 
+
+#left img{
+	width: 100%;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+
+#left h1{
+	margin: 0px;
+	color: #516d21;
+}
+
+#left h1 img{
+	width: 20px;
+	margin-right: 5px;
+}
+
+.text-left{
+	clear: both;
+	padding-bottom: 20px;
+	float: left;
+	width: 70%;	
+}
+
+.text-left h1{
+	padding: 20px 0px;
+}
+
+.picture-right{
+	margin-left: 2%;
+	padding: 20px 0px;
+	float: left;
+	width: 28%;
+}
+
+
+.rule{
+	clear: both;
+	margin: 0px;
+}
+
+
+#pricing h1{
+	padding: 20px 0px;
+}
+#pricing p{
+	font-size: 9pt;
+	font-style: italic;
+}
+
+
+#right{
+	float: left;
+	width: 23%;
+	background-color: #e2e4db;
+	text-align: center;
+	margin: 20px 2% 20px 0%;
+	padding: 20px 20px 0px 20px;
+	box-sizing: border-box;
+}
+
+#right img{
+	max-width: 100%;
+	padding-bottom: 20px;
+}
+
+#footer{
+	background: url('tanbg.png');
+	color: #675538;
+	padding: 40px 10%;
+	position: relative;
+}
+
+
+#footer ul li{
+	display: inline-block;
+	padding: 5px;
+	font-size: 14px;
+}
+
+#footer #staff-login{
+	position: absolute;
+	top: 50px;
+	left: 75%;
+}
+
+#footer img{
+	padding-left: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
