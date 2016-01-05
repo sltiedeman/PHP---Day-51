@@ -1,0 +1,13 @@
+body{
+	margin: 0px;
+	background: url('tanbg.png');
+}
+
+h1{
+	text-align: center;
+}
+
+.form-wrapper{
+	width: 50%;
+	margin: auto;
+}
